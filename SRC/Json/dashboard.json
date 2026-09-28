@@ -1,0 +1,12 @@
+{
+"url": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+"title": "OrangeHRM",
+"heading": "Dashboard",
+"widgets": [
+"Time at Work",
+"My Actions",
+"Quick Launch",
+"Buzz Latest Posts"
+]
+
+}
